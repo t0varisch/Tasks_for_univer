@@ -1,0 +1,10 @@
+Package: Programm3
+Version: 1.0
+Section: unknown
+Priority: optional
+Depends: libc6
+Architecture: amd64
+Essential: no
+Installed-Size: 20
+Maintainer: t0varisch <dombassodor@gmail.com>
+Description: Execute programm3 for NetOS

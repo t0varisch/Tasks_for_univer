@@ -1,0 +1,10 @@
+Package: Programm4
+Version: 1.0
+Section: unknown
+Priority: optional
+Depends: libc6
+Architecture: amd64
+Essential: no
+Installed-Size: 16
+Maintainer: t0varisch <dombassodor@gmail.com>
+Description: Execute Programm4 for NetOS
