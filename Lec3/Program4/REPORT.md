@@ -1,4 +1,4 @@
-#Report for the fourth program
+# Report for the fourth program
 
 At the beginning, the "fork()" function is called, which creates a child process
 ```
@@ -10,4 +10,3 @@ The PID of the processes in which the program is located will be output to the c
 printf("my pid = %i, returned pid = %i\n", getpid(), pid);
 printf("my pid = %i, returned pid = %i\n", getpid(), pid);
 ```
-
