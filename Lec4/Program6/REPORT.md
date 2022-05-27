@@ -1,4 +1,4 @@
-#Report for sixth program
+# Report for sixth program
 
 The program creates an array of file descriptors.
 After that, the application will check the correctness of the input and display an error message if there is one.
