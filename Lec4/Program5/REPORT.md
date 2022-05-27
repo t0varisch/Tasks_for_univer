@@ -1,4 +1,4 @@
-#Report for the fifth program
+# Report for the fifth program
 
 Initially, the program receives the signal entered by the user and processes it, after which it creates a global variable-a counter
 ```
