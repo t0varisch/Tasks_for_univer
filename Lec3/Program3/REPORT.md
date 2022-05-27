@@ -1,4 +1,4 @@
-#Report for the third program
+# Report for the third program
 
 Initially, memory is allocated for an array with "char" elements
 char * c = (char * ) calloc(100, sizeof(char));
