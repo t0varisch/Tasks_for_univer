@@ -1,4 +1,4 @@
-#Report for the seventh program
+# Report for the seventh program
 
 The program creates a handle and a channel with access rights for everyone
 ```
