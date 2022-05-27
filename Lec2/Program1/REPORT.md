@@ -1,4 +1,4 @@
-#Report for the first program
+# Report for the first program
 
 This program creates an array of the specified length
 ```
